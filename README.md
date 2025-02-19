@@ -29,7 +29,7 @@ From the root of the repository, run the following command to make all mission a
 This command ensures that all .sh files inside the missions and bonus_challenges folders are executable.
 
 ## Missions Overview <a name="missions"></a>
-Each mission is located in its own folder under the missions directory. Each folder contains a series of challenge levels that you can run sequentially. The missions are designed to teach key command-line concepts through hands-on tasks.
+Each mission is located in its own folder under the junior and intermediate directory respectively (junior as the easier of the two). Each folder contains a series of challenge levels that you can run sequentially. The missions are designed to teach key command-line concepts through hands-on tasks.
 
 **Mission List:**
 
