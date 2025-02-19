@@ -31,7 +31,27 @@ This command ensures that all .sh files inside the missions and bonus_challenges
 ## Missions Overview <a name="missions"></a>
 Each mission is located in its own folder under the junior and intermediate directory respectively (junior as the easier of the two). Each folder contains a series of challenge levels that you can run sequentially. The missions are designed to teach key command-line concepts through hands-on tasks.
 
-**Mission List:**
+### Mission List: Junior Challenges
+#### Mission: The Vault Heist
+Learn about file permissions and ownership.
+Folder: vault_heist
+
+#### Mission: File Investigator
+
+Focuses on file management techniques like moving, copying, and removing files.
+Folder: file_investigator
+
+#### Mission: Follow the White Rabbit
+
+Focuses on directory navigation techniques like change directory
+Folder: follow_the_white_rabbit
+
+#### Mission: Variable Conundrum
+
+Focuses on setting variable techniques like export and echo
+Folder: variable_conundrum
+
+### Mission List: Intermediate Challenges
 
 #### Mission: The Vault
 
